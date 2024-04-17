@@ -1,3 +1,5 @@
+
+
 # Cryptonix
 
 Cryptonix is a Python tool for generating Bitcoin and Ethereum addresses along with their corresponding private keys. It scans for balances on these addresses and displays the results. If a balance is found, it saves the successful combinations to a file named btcWin.txt.
@@ -36,4 +38,3 @@ python Cryptonix.py
 - Make sure to handle generated private keys securely.
 
 
-3.
