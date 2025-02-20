@@ -26,7 +26,7 @@ cd Cryptonix-BTC-ETH-Scanner
 ```
 3. Install the required dependencies:
 ```
-pip install -r requirements.txt
+pip install colorama hdwallet requests pyfiglet
 ```
 ## Usage
 1. Run the script:
