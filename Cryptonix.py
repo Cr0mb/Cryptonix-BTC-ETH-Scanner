@@ -5,7 +5,9 @@ import random
 import requests  
 import os  
 import time  
-import platform  
+import platform
+import subprocess
+import tarfile
 from pyfiglet import Figlet  
 
 init(autoreset=True)
