@@ -1,3 +1,10 @@
+```
+These projects are intended solely for educational purposes to help individuals understand the principles of cryptography and blockchain technology. It is important to recognize that attempting to generate Bitcoin wallets in the hope of randomly finding one with a balance is not a feasible strategy. This same logic applies to any tool that tries to work in any way the same as this.
+
+The number of possible Bitcoin wallet combinations exceeds 76 trillion, making the odds of discovering an active wallet astronomically low. To put it into perspective, you are statistically far more likely to win the lottery every day for the rest of your life than to recover even a single wallet with funds—even over the course of a decade.
+```
+
+
 ![image](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner/assets/137664526/648e5cd6-6e42-4e35-bf84-8ef2f541d124)
 
 [Video](https://www.youtube.com/watch?v=SUHOJcKalz0&t=91s)
